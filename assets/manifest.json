@@ -1,0 +1,6 @@
+{
+    "name": "Clash of Clans Card",
+    "short_name": "CoC Card",
+    "start_url": ".",
+    "display": "standalone"
+}
